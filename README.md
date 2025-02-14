@@ -5,7 +5,7 @@ Every morning, our team gets a **clear and simple report** on how our business p
 
 This **Daily Sales Report Automation** was built using **Tableau, Gmail, and Databricks**. It collects, processes, and sends daily sales data from **all stores and online platforms**. With this system, leaders can **spot trends faster, fix problems early, and make better decisions** every day.  
 
-![Daily Sales Report](https://drive.google.com/uc?id=1_Y87Ohcomf_W5lg4syJ5uUVzH0r7tSb6)  
+![Daily Sales Report](https://drive.google.com/file/d/1YkWL0wXTg66R4FwSSZvTuHPlySqpoYf3/view?usp=sharing)  
 
 ---
 
